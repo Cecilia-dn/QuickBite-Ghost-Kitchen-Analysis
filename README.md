@@ -28,6 +28,8 @@ This analysis aimed to:
 
 Using 6 months of operational data, I analyzed orders, revenue, profit, fixed costs, customer ratings, competitor benchmarks, delivery time, weather patterns, and menu performance to uncover what was driving each location’s results.
 
+<img width="1410" height="773" alt="image" src="https://github.com/user-attachments/assets/16626d4c-c200-4962-9360-45ad20a39c5b" />
+
 #### Key Insights
 
 1. Kilimani generated the highest revenue and profit, but had the slowest delivery time, suggesting operational inefficiency despite strong performance.
